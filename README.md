@@ -1,4 +1,4 @@
-Hello world application to use with Yocto
+# Hello world application to use with Yocto
 
 `./build.sh` - create `./build` dir and build application
 
